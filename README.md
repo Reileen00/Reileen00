@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reileen </h1>
-<p align="center">
-  <em>MTech @ IIT Kharagpur · Full-stack Developer · Terminal Enthusiast · AI/ML Explorer</em>
-</p>
+
 
 ---
 ## 🧰 Tech Stack
