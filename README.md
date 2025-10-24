@@ -14,10 +14,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,prisma,mongodb,postgres,tailwind,vercel,cpp,rust,solidity,linux" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Stack&align=center&lineCount=2&theme=tokyonight&width=800&line1=nextjs,react,ts,nodejs,tailwind;vercel,prisma,postgres,mongodb,solidity,rust,cpp,linux" />
-</p>
-
 ---
 
 ## ⚙️ About Me
