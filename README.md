@@ -39,21 +39,5 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/reileen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/reileen_dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://reileen.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
 ⭐️ *“Code. Create. Iterate.”*  
 <p align="center">Built with ❤️ by <a href="https://github.com/Reileen00">Reileen</a></p>
